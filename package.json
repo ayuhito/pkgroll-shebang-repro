@@ -11,7 +11,7 @@
   },
   "bin": "./dist/cli.js",
   "scripts": {
-    "build": "pkgroll --target=node14"
+    "build": "pkgroll"
   },
   "license": "MIT",
   "dependencies": {
